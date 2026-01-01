@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @hpgavin
-- 👀 I’m interested in computational, theoretical, and experimental structural dynamics, data acquisition, disaster early warning. 
-- 🌱 I’m currently learning about how to be a GitHub pro, real time rasberry pi, deterministic real time control
-- 💞️ I’m looking to collaborate on RPi for realtime control
-- 📫 How to reach me --- email.
+Hi! This github account contains repositoires to support work in 
+- constrained and controlled dynamical systems,
+- high performance graphical (HPG) data acquisition systems for real-time control and based on the RPi processors,
+- multi-variable things like signal processing, LTI systems, linear algebra, random variables, and optimization,
+- linear and nonlinear structural analysis,
+- stochastic response surface methods,
+- gaussian processes
+- disaster early warning,
+Code is in a mixture of 
+- C
+- Python
+- matlab (octave)
 
 <!---
 hpgavin/hpgavin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
