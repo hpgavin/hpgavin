@@ -1,6 +1,6 @@
 Hi! This github account contains repositoires to support work in 
 - constrained and controlled dynamical systems,
-- high-performance graphical (HPG) data acquisition systems for real-time control and based on the RPi processors,
+- high-performance graphical (HPG) data acquisition systems for real-time control and implemented on the RPi and ESP-32,
 - multi-variable things like signal processing, LTI systems, linear algebra, random variables, and optimization,
 - linear and nonlinear structural analysis,
 - stochastic response surface methods,
