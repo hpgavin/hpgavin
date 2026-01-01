@@ -1,7 +1,7 @@
 Hi! This github account contains repositoires to support work in 
 - constrained and controlled dynamical systems,
 - high-performance graphical (HPG) data acquisition systems for real-time control and implemented on the RPi and ESP-32,
-- multi-variable things like signal processing, LTI systems, linear algebra, random variables, and optimization,
+- multi-variable things like signal processing, fitting models, LTI systems, linear algebra, random variables, ODE's and optimization,
 - linear and nonlinear structural analysis,
 - stochastic response surface methods,
 - gaussian processes, 
