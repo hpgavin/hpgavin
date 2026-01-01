@@ -1,15 +1,13 @@
 Hi! This github account contains repositoires to support work in 
 - constrained and controlled dynamical systems,
-- high performance graphical (HPG) data acquisition systems for real-time control and based on the RPi processors,
+- high-performance graphical (HPG) data acquisition systems for real-time control and based on the RPi processors,
 - multi-variable things like signal processing, LTI systems, linear algebra, random variables, and optimization,
 - linear and nonlinear structural analysis,
 - stochastic response surface methods,
-- gaussian processes
+- gaussian processes, 
 - disaster early warning,
-Code is in a mixture of 
-- C
-- Python
-- matlab (octave)
+  
+Souce code emphasizes pedagoy and is written in C, Python, and octave (matlab) 
 
 <!---
 hpgavin/hpgavin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
