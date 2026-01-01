@@ -7,7 +7,7 @@ Hi! This github account contains repositoires to support work in
 - gaussian processes, 
 - disaster early warning,
   
-Souce code emphasizes pedagoy and is written in C, Python, and octave (matlab) 
+Souce code emphasizes pedagogy and is written in C, Python, and octave (matlab) 
 
 <!---
 hpgavin/hpgavin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
